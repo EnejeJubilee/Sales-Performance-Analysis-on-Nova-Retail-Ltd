@@ -34,4 +34,8 @@ The primary objective of this project is to analyze NovaRetail Ltd.’s sales da
 * Provide regular training and performance incentives for sales representatives to improve consistency and close performance gaps.
 * Review and optimize discount strategies to enhance profitability while maintaining competitive pricing.
 
-	
+## CONCLUSION	
+This analysis provided valuable insights into Nova Retail Ltd.’s sales performance across cities, products, and customers.
+By leveraging these findings, the company can make informed decisions to improve operations, enhance profitability, and sustain business growth.
+
+
