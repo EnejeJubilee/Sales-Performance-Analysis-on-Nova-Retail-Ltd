@@ -7,7 +7,8 @@ This report presents the analysis of NovaRetail Ltd.’s sales data to understan
 
 ## OBJECTIVES
 The primary objective of this project is to analyze NovaRetail Ltd.’s sales data across four Nigerian cities to uncover key trends, revenue drivers, customer behaviors, and product performance patterns. The analysis aims to provide actionable insights that will help the company:
-*  Improve sales efficiency and profitability
+
+*   Improve sales efficiency and profitability
 *   Identify high-performing cities, products, and customer segments.
 *   Enhance customer retention through data-driven strategies.
 *   Support informed strategic decision-making for future growth.
